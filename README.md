@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chinni
+- 👋 Hi, I’m @Chinni novahu
 - 👀 I’m interested in web development ui ux designing and aurdino
 - 🌱 I’m currently learning python and mern stack
 - 💞️ I’m looking to collaborate on full stack and ui ux 
