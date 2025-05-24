@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack and ui ux 
 - 📫 How to reach me
     phone: 8125811884
-    gmail.chinnimovahu@gmail.comm
+    gmail: chinnimovahu@gmail.comm
 - 😄 Pronouns: always be prepared
 - ⚡ Fun fact: i am a fast learner if you give me opportunithy then i can take your position 😂
 
