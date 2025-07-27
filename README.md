@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Chinni novahu
 - 👀 I’m interested in web development ui ux designing and aurdino
 - 🌱 I completed my fullstack intern at veils.ai company
-- 📝present completing my various corses on  rinex.ai company
+- 📝present completing the trending corses on  rinex.ai company
 - 💞️ I’m looking to collaborate on full stack and ui ux 
 - 📫 How to reach me
     phone: 8125811884
+  
     gmail: chinninovahu@gmail.com
 
 
