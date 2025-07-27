@@ -5,8 +5,8 @@
 - 📫 How to reach me
     phone: 8125811884
     gmail: chinninovahu@gmail.com
-- 😄 Pronouns: always be prepared
-- ⚡ Fun fact: i am a fast learner if you give me opportunithy then i can take your position 😂
+
+
 
 <!---
 Chinn8/Chinn8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
